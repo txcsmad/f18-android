@@ -51,6 +51,13 @@ All MAD workshops are taught by fellow UT students! This semester they'll be tau
 |<img src="/instructor/andyAndroid.png" width="200px" />|Ali Kedwaii|[Pending...](mailto:)|Pending...|
 |<img src="/instructor/aliN.jpg" width="200px" />|Ali Naqvi|[alinaqvi1397@gmail.com](mailto:alinaqvi1397@gmail.com)|Pending...|
 
+### TAs
+
+|Photo|TA|Email|Fun fact|
+|---|---|---|---|
+|<img src="/instructor/rooshi" width="200px" />|Rooshi Patida|[rooshipatidar@gmail.com](mailto:rooshipatidar@gmail.com)| love Hawaiian shirts.|
+|<img src="/instructor/pravat" width="200px" />|Pravat Bhusal|[pravat.bhusal@gmail.com](mailto:pravat.bhusal@gmail.com)|Pending...|
+
 ## What should I do if I miss a workshop?
 
 Don't sweat it! You can get the materials from each workshop in this repository. If you have questions about the materials feel free to email any of the instructors or message them on Facebook.
