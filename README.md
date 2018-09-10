@@ -55,7 +55,7 @@ All MAD workshops are taught by fellow UT students! This semester they'll be tau
 
 |Photo|TA|Email|Fun fact|
 |---|---|---|---|
-|<img src="/instructor/rooshi.png" width="200px" />|Rooshi Patida|[rooshipatidar@gmail.com](mailto:rooshipatidar@gmail.com)| love Hawaiian shirts.|
+|<img src="/instructor/rooshi.png" width="200px" />|Rooshi Patida|[rooshipatidar@gmail.com](mailto:rooshipatidar@gmail.com)| I love Hawaiian shirts.|
 |<img src="/instructor/pravat.png" width="200px" />|Pravat Bhusal|[pravat.bhusal@gmail.com](mailto:pravat.bhusal@gmail.com)|Pending...|
 
 ## What should I do if I miss a workshop?
