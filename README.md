@@ -49,7 +49,7 @@ All MAD workshops are taught by fellow UT students! This semester they'll be tau
 |---|---|---|---|
 |<img src="/instructor/yair.jpg" width="200px" />|Yair Nieto|[yair.nieto.25@utexas.edu](mailto:yair.nieto.25@utexas.edu)|I can't wake up for 8am classes, but I can for 8am gym.|
 |<img src="/instructor/Ali_k.jpg" width="200px" />|Ali Kedwaii|[ali.kedwaii@utexas.edu](mailto:ali.kedwaii@utexas.edu)|My distinguishing feature is my headphones.|
-|<img src="/instructor/aliN.jpg" width="200px" />|Ali Naqvi|[alinaqvi1397@gmail.com](mailto:alinaqvi1397@gmail.com)|Pending...|
+|<img src="/instructor/aliN.jpg" width="200px" />|Ali Naqvi|[alinaqvi1397@gmail.com](mailto:alinaqvi1397@gmail.com)|I have a small but growing collection of Android figures (9 in total so far)|
 
 ### TAs
 
