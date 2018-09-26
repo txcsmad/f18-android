@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".SignUpActivity">
 
-    <Button
+    <ImageButton
         android:id="@+id/addPhotoButton"
         android:layout_width="100dp"
         android:layout_height="100dp"
@@ -39,8 +39,9 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="16dp"
+        android:entries="@array/gender"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText3" />
+        app:layout_constraintTop_toBottomOf="@+id/emailEditText" />
 
     <Button
         android:id="@+id/nextButton"
@@ -49,6 +50,7 @@
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
+        android:onClick="onClickNext"
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -69,7 +71,7 @@
         app:layout_constraintTop_toBottomOf="@+id/genderSpinner" />
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/emailEditText"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
