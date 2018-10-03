@@ -81,6 +81,14 @@ public class SignUpActivity extends AppCompatActivity {
         if(firstName.length() > 0 && email.length() > 0 &&
                 genderSpinner.getSelectedItemPosition() > 0 &&
                 bitmapPicture != null) {
+            Intent confirmIntent = new Intent(this, ConfirmActivity.class);
+
+            confirmIntent.putExtra("Name", firstName);
+            confirmIntent.putExtra("Email", email);
+            confirmIntent.putExtra("Gender", genderSpinner.getSelectedItem().toString());
+            confirmIntent.putExtra("Picture", bitmapPicture);
+
+            startActivity(confirmIntent);
 
         } else {
             Snackbar.make(getCurrentFocus(), "One or more fields are missing",

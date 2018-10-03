@@ -4,8 +4,7 @@
 
     <uses-feature
         android:name="android.hardware.Camera"
-        android:required="false"
-        />
+        android:required="false" />
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -25,7 +24,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SignUpActivity"></activity>
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".ConfirmActivity"></activity>
     </application>
 
 </manifest>
