@@ -39,6 +39,16 @@ public class CardItemViewHolder {
         mSwipeView = swipeView;
     }
 
+    public CardItemViewHolder(Context context, SwipePlaceHolderView swipeView) {
+        mContext = context;
+        mSwipeView = swipeView;
+    }
+
+    public void setProfile(Profile profile) {
+        mProfile = profile;
+        onResolved();
+    }
+
     @Resolve
     private void onResolved() {
         Glide.with(mContext).load(mProfile.getImageUrl()).into(profileImageView);
